@@ -1,5 +1,5 @@
 # Blockchain Demo
-visual demo of blockchain technology which attempts to explain the technology by building up from simple concepts using a web demo.</br>
+Visual demo of blockchain technology which attempts to explain the technology by building up from simple concepts using a web demo.</br>
 The project was inspired by the idea of anders-brownworth.</br>
 There is a video tutorial and a demo site that can be used to reinforce the concepts.</br>
 https://andersbrownworth.com/blockchain/
